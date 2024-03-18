@@ -81,7 +81,11 @@ You should output the resulting matrix to standard out in the same format as a n
 ```
 It is perfectly fine if the numbers have decimals after them e.g., `28.00000`. Since we are reading and parsing doubles, it makes sense for the output to also have decimals (though, if you want to truncate the trailing zeroes for integer values, that's also fine!).
 
-  
+## Submission:
+When your submission is ready, commit and sync all changes and create a tag in that version named **submission**.
+
+Your project will be graded based on the _submission_ tagged version.
+
 ## Notes:
 
 **1\. If your solution is not multi-threaded, you will receive a zero.**
